@@ -1,0 +1,15 @@
+<div itemscope itemtype="http://schema.org/CreativeWork">
+  <a href="{{ .Permalink }}">{{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}</a>
+  <div class="post-snippet">
+    <h2 class="title">
+        <a href="{{ .Permalink }}" itemprop="headline">{{ .Title }}</a>
+    </h2>
+
+    {{ if .Description }}
+    <p itemprop="about">{{ .Description }}</p>
+    {{ end }}
+    {{ .Content | safeHTML | truncate 254 }} <a href="{{ .Permalink }}">Read More &rarr;</a>
+
+  </div>
+  <hr>
+</div>

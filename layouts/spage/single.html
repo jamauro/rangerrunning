@@ -1,0 +1,40 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main"}}
+<div id="main">
+  <div id="hero" class="wrap">
+    <h1>{{.Title }}</h1>
+      <p>{{.Params.description}}</p>
+  </div>
+
+  <section id="services">
+    <div class="page-content">
+      <div class="row gutters">
+        <div class="col col-6 item">
+          <img alt="Ranger Running Event Management" height="100%" src="{{ "/img/ranger_eventmgmt.jpg" | relURL }}" width="100%">
+          <h3>Event Management &amp; Insurance</h3>
+          <p>Bacon ipsum dolor amet chuck flank tail pancetta short ribs biltong, jowl cupim hamburger boudin shankle shank ham hock bacon. Pork loin turkey t-bone flank chicken alcatra, shoulder ham hock. Beef ribs meatloaf drumstick, tail fatback picanha sausage. Pig pork loin short loin drumstick bresaola ham hock cow landjaeger short ribs pastrami hamburger tail biltong kielbasa. Turducken strip steak tail kevin. Venison tail landjaeger turkey tenderloin andouille meatloaf.</p>
+          <ul>
+            <li>One</li>
+            <li>Two</li>
+            <li>Three</li>
+          </ul>
+        </div>
+        <div class="col col-6 item">
+          <img alt="Ranger Running Course Planning" height="100%" src="{{ "/img/ranger_courseplanning.jpg" | relURL }}" width="100%">
+          <h3>Course Creation &amp; Management</h3>
+          <p>Bacon ipsum dolor amet chuck flank tail pancetta short ribs biltong, jowl cupim hamburger boudin shankle shank ham hock bacon. Pork loin turkey t-bone flank chicken alcatra, shoulder ham hock. Beef ribs meatloaf drumstick, tail fatback picanha sausage. Pig pork loin short loin drumstick bresaola ham hock cow landjaeger short ribs pastrami hamburger tail biltong kielbasa. Turducken strip steak tail kevin. Venison tail landjaeger turkey tenderloin andouille meatloaf.</p>
+          <ul>
+            <li>One</li>
+            <li>Two</li>
+            <li>Three</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ partial "cta" .}}
+</div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer.html" .}} {{ end }}
