@@ -6,7 +6,4 @@
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Content-Type = "application/font-ttf"
-  for = "/*.otf"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Content-Type = "application/font-otf"
+
