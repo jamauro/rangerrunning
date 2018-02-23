@@ -2,13 +2,13 @@
   HUGO_VERSION = "0.36"
 
 [[headers]]
-  for = "/*.ttf"
+  for = "/font/*.ttf"
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Content-Type = "application/font-ttf"
 
 [[headers]]
-  for = "/*.otf"
+  for = "/font/*.otf"
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Content-Type = "application/font-otf"
