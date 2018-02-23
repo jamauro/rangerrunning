@@ -2,7 +2,6 @@
 date = "2018-01-29T01:24:30+00:00"
 title = "About"
 description ="Like all good things, this story starts with burritos"
-[menu.main]
 weight = 2
 
 +++
