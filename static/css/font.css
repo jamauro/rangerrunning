@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Maison Neue Mono';
+    font-family: 'MaisonNeue-Mono';
     src: url('../font/maisonneuemono.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Maison Neue Mono';
+    font-family: 'MaisonNeue-Mono';
     src: url('../font/maisonneuemonoitalic.ttf') format('ttf');
     font-weight: normal;
     font-style: italic;
