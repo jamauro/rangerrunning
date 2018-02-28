@@ -325,11 +325,13 @@ footer {
 }
 
 #footer {
-  background-color: #212121;
   text-align: center;
   font-size: 16px;
   display: block;
   margin: 0 auto;
+  background: url(/img/camo.svg) repeat;
+
+  background-color: #212121;
 }
   #footer ul {
     margin: 0px;
@@ -379,6 +381,7 @@ footer {
   #hero.logo {
     padding-top: 48px;
     background-position: 30% 50%;
+    background-size: 320px 283px;
   }
 
   #hero.logo h1 {
