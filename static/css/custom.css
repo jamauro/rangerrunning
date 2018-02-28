@@ -130,6 +130,14 @@ blockquote {
   max-width: 100%;
 }
 
+#hero.logo {
+  background: url(/img/texas.svg) no-repeat;
+  background-size: contain;
+  height: 332px;
+  margin-bottom: 56px;
+  background-position: 48% 50%;
+}
+
 .page-content {
   padding: 160px 80px;
   max-width: 1800px;
@@ -172,12 +180,13 @@ blockquote {
 
 #hero.logo h1 {
   line-height: 1em;
+  margin-top: -20px;
 }
 #hero .description {
   font-family: 'MaisonNeue-Mono', serif;
   text-transform: uppercase;
-  letter-spacing: 0.36em;
-  font-size: 16px;
+  letter-spacing: 0.6em;
+  font-size: 12px;
   line-height: 24px;
   color: #313439;
 }
@@ -350,8 +359,8 @@ footer {
   p.location {
     font-family: 'MaisonNeue-Mono';
     color: #8F8F8F;
-    font-size: 16px;
-    margin-top: 12px;
+    font-size: 12px;
+    letter-spacing: 0.06em;
   }
 
 @media (max-width: 768px) {
@@ -365,6 +374,15 @@ footer {
 
   #hero {
     margin-top: 60px;
+  }
+
+  #hero.logo {
+    padding-top: 48px;
+    background-position: 30% 50%;
+  }
+
+  #hero.logo h1 {
+    font-size: 60px;
   }
   #hero h1 {
     font-size: 40px;
