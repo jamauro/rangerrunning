@@ -1,76 +1,76 @@
 @font-face {
     font-family: 'MaisonNeue-Mono';
-    src: url('../font/maisonneuemono.ttf') format('ttf');
+    src: url('../font/maisonneuemono.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MaisonNeue-Mono';
-    src: url('../font/maisonneuemonoitalic.ttf') format('ttf');
+    src: url('../font/maisonneuemonoitalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Liberator';
-    src: url('../font/Liberator-Heavy.otf') format('otf');
+    src: url('../font/Liberator-Heavy.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-Light.ttf') format('ttf');
+    src: url('../font/MaisonNeue-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-LightItalic.ttf') format('ttf');
+    src: url('../font/MaisonNeue-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-Medium.ttf') format('ttf');
+    src: url('../font/MaisonNeue-Medium.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-MediumItalic.ttf') format('ttf');
+    src: url('../font/MaisonNeue-MediumItalic.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-Bold.ttf') format('ttf');
+    src: url('../font/MaisonNeue-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-BoldItalic.ttf') format('ttf');
+    src: url('../font/MaisonNeue-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-Italic.ttf') format('ttf');
+    src: url('../font/MaisonNeue-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Maison Neue';
-    src: url('../font/MaisonNeue-Book.ttf') format('ttf');
+    src: url('../font/MaisonNeue-Book.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
