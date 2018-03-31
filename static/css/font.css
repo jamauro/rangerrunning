@@ -20,6 +20,27 @@
 }
 
 @font-face {
+    font-family: 'Trim';
+    src: url('../font/Trim-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trim';
+    src: url('../font/Trim-ExtraBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trim Mono Web';
+    src: url('../font/TrimMonoWebLight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Maison Neue';
     src: url('../font/MaisonNeue-Light.ttf') format('truetype');
     font-weight: 300;

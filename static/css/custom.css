@@ -29,7 +29,7 @@ button, .button {
   font-size: 16px;
   font-weight: 600;
   padding-top: 10px;
-  background-color: rgb(252, 119, 44);
+  background-color: #FD4F06;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   border-radius: 2px;
@@ -42,7 +42,7 @@ button:hover, .button:hover {
 
 
 a {
-  color: rgb(252, 119, 44); /*#1eabf2*/
+  color: #FD4F06; /*#1eabf2*/
   text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ blockquote {
   font-size: 32px;
   line-height: 40px;
   margin: 40px 0;
-  color: rgb(252, 119, 44); /*#1eabf2*/
+  color: #FD4F06; /*#1eabf2*/
 }
 
 #top {
@@ -92,9 +92,10 @@ blockquote {
 }
 
 #top-brand a {
-  font-family: 'Liberator', Helvetica, Arial, sans-serif;
+  font-family: 'Trim', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   color: #212121;
   letter-spacing: 0.05em;
 }
@@ -131,11 +132,16 @@ blockquote {
 }
 
 #hero.logo {
-  background: url(/img/texas.svg) no-repeat;
+  /* background: url(/img/texas.svg) no-repeat; */
   background-size: contain;
   height: 332px;
-  margin-bottom: 56px;
+  margin-top: 200px;
+  margin-bottom: 280px;
   background-position: 48% 50%;
+}
+
+#hero img {
+  height: 140px;
 }
 
 .page-content {
@@ -172,23 +178,26 @@ blockquote {
 
 
 #hero h1 {
-  font-family: 'Liberator';
+  font-family: 'Trim';
   letter-spacing: 0.05em;
   font-size: 60px;
   margin: 0 auto;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 #hero.logo h1 {
   line-height: 1em;
-  margin-top: -20px;
 }
 #hero .description {
-  font-family: 'MaisonNeue-Mono', serif;
+  font-family: 'Trim Mono Web', monospace, sans-serif;
   text-transform: uppercase;
-  letter-spacing: 0.6em;
-  font-size: 12px;
+  letter-spacing: 0.08em;
+  font-size: 24px;
+  font-weight: 100;
   line-height: 24px;
   color: #313439;
+  padding-top: 4px;
 }
 
 #hero.blog h1 {
