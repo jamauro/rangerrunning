@@ -10,6 +10,7 @@ h1.title, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 h1 {
   font-weight: 300;
+  color: #212121;
 }
 
 section h1 {
@@ -29,7 +30,7 @@ button, .button {
   font-size: 16px;
   font-weight: 600;
   padding-top: 10px;
-  background-color: #FD4F06;
+  background-color: #FF5500;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   border-radius: 2px;
@@ -37,24 +38,24 @@ button, .button {
 }
 
 button:hover, .button:hover {
-  background-color: rgb(246, 87, 0);
+  background-color: #FF2800;
 }
 
 
 a {
-  color: #FD4F06; /*#1eabf2*/
+  color: #FF5500; /*#1eabf2*/
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(246, 87, 0);
+  color: #FF2800;
 }
 
 blockquote {
   font-size: 32px;
   line-height: 40px;
   margin: 40px 0;
-  color: #FD4F06; /*#1eabf2*/
+  color: #FF5500; /*#1eabf2*/
 }
 
 #top {
@@ -107,7 +108,7 @@ blockquote {
 #top-brand img {
   vertical-align: middle;
   max-height: 24px;
-  margin-right: 8px;
+  margin-right: 12px;
   margin-top: -6px;
 }
 
@@ -123,7 +124,7 @@ blockquote {
 }
 
 #wrapper {
-  min-height: calc(100vh - 400px); /* sticky footer */
+  min-height: calc(100vh - 600px); /* sticky footer */
 }
 
 #main {
@@ -205,6 +206,8 @@ blockquote {
   font-weight: 300;
   letter-spacing: 0;
   margin-top: 60px;
+  text-transform: none;
+
 }
 
 .post-time {
@@ -225,8 +228,7 @@ time {
 
 time.date:before {
   content: '\00B7';
-  margin-right: 0.5em;
-  margin-left: 0.4em;
+  margin-right: 0.6em;
 }
 
 #hero p {
@@ -329,7 +331,7 @@ textarea {
 
 footer {
   margin-top: 140px;
-  height: 400px;
+  height: 600px;
   width: 100%;
 }
 
@@ -351,7 +353,7 @@ footer {
     display: inline;
   }
   #footer .social {
-  margin-top: 144px;
+  margin-top: 300px;
   }
   a svg:hover {
     fill: #fff;
@@ -400,12 +402,20 @@ footer {
     font-size: 40px;
   }
 
+  #posts h2 {
+    font-size: 36px;
+  }
+
   #main {
     padding: 0 20px;
   }
   #content {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .main-content {
+    padding: 0 20px;
   }
   .page-content {
     padding-top: 60px;

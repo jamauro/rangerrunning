@@ -1,5 +1,5 @@
 +++
-description = "Let's get running! Fill out the details below and smash that button."
+description = "Send us the details for your event. We'll reply with a quote and plan."
 title = "Contact"
 
 +++
@@ -7,7 +7,7 @@ title = "Contact"
   <input type="name" name="name" placeholder="Name">
   <input type="email" name="email" placeholder="Email">
   <select name="groupsize" id="groupsize">
-      <option value="" disabled selected>How many are you bringing with you?</option>
+      <option value="" disabled selected>How many are in your group?</option>
       <option value="1-10">1-10</option>
       <option value="11-50">11-50</option>
       <option value="51-100">51-100</option>
