@@ -30,7 +30,7 @@ button, .button {
   font-size: 16px;
   font-weight: 600;
   padding-top: 10px;
-  background-color: #FF5500;
+  background-color: #FF4500;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   border-radius: 2px;
@@ -43,7 +43,7 @@ button:hover, .button:hover {
 
 
 a {
-  color: #FF5500; /*#1eabf2*/
+  color: #FF4500; /*#1eabf2*/
   text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ blockquote {
   font-size: 32px;
   line-height: 40px;
   margin: 40px 0;
-  color: #FF5500; /*#1eabf2*/
+  color: #FF4500; /*#1eabf2*/
 }
 
 #top {
