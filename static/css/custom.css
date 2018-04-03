@@ -51,6 +51,11 @@ a:hover {
   color: #FF2800;
 }
 
+a svg:hover #facebook,
+a svg:hover #instagram {
+  fill: #fff;
+}
+
 blockquote {
   font-size: 32px;
   line-height: 40px;
