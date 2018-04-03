@@ -1,10 +1,15 @@
 +++
-date = "2018-01-29T01:11:43+00:00"
+categories = []
+date = "2018-01-29T01:11:43Z"
 description = ""
+featured_image = "/img/ranger_blog2.jpg"
+tags = []
 title = "Media Post"
 weight = 20
-featured_image = "/img/ranger_blog2.jpg"
+
 +++
+
+Testing!
 
 Bacon ipsum dolor amet capicola short ribs cow frankfurter t-bone. Kevin ground round chuck rump capicola cow ball tip beef ribs ribeye ham hock. Tongue landjaeger cupim tenderloin, prosciutto shoulder corned beef tail jowl. Buffalo pastrami capicola, corned beef boudin short ribs tenderloin ham landjaeger.
 
