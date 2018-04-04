@@ -4,4 +4,4 @@ title = "Thanks!"
 
 +++
 
-In the meantime, check us out on [Instagram](https://google.com) or [Facebook](https://google.com)
+<p style="text-align: center;">In the meantime, check us out on <a href="https://www.instagram.com/rangerrunning/">Instagram</a> or <a href="https://www.facebook.com/rangerrunning">Facebook</a>
