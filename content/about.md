@@ -1,19 +1,19 @@
 +++
 date = "2018-01-29T01:24:30+00:00"
-title = "About"
-description ="Like all good things, this story starts with burritos"
+title = "About Us"
+description ="Bringing fellow runners together for unique events"
 weight = 2
 
 +++
 
-Looks like you're here to hear the curious story about the founding of Ranger Running. It all started on a sunny day in Austin, TX. The would-be founders were indulging in Chipotle's bulgy burritos when they thought to themselves:
+Running is a unifier, whether you’re doing it alone or with 50,000 other people. The shared camaraderie surpasses language and cultural barriers — any person at any level of fitness can share in the bond of being a ‘runner’. Ranger Running Events exists for the single purpose of bringing fellow runners together for unique events, while providing quality amenities, comprehensive safety, and logistical precision.  Whether the running event is for a charity, conference, festival, or corporate function, our goal is to customize and create a final product that matches your vision. We handle the details so you’re not up at night stressing.
 
-> Why in god's name aren't there more avenues for running a 5k?
+Ranger Running Events sprang from three friends’ love of running. Each co-founder came from a different background - one worked in tech, one was an Army Ranger, and the third worked at a running shoe company. They saw that by combining their different skillsets, they could improve upon the planning, organization, and execution of races and running events.
 
-Sausage salami prosciutto, pork ribeye ham hock pork loin corned beef. T-bone cupim biltong landjaeger, hamburger pork chop burgdoggen spare ribs. Bresaola kielbasa filet mignon, pork belly flank pork picanha tenderloin shoulder buffalo. Prosciutto t-bone bacon drumstick bresaola ground round short loin salami porchetta biltong pork belly chicken pig.
+> Unique events with quality amenities, comprehensive safety, and logistical precision
 
-So, what are you waiting for? Shoot us a [note](/contact) or we don't mind how you get here -- land, air, or by sea -- just saddle up and get yourself and your crew down to Austin. You'll be glad you did.
+Ranger Running Events separates itself from traditional event companies by offering technology-enhanced amenities, implementing military-style logistics, and leveraging a wealth of experience from previous race planning and production. No matter how big your event or budget, we guarantee amazing customer service that will ensure everyone — from the runners to the sponsors — goes home happy.
 
-<div id='map-container'>
-  <div id='map'></div>
-</div>
+So, what are you waiting for? Shoot us a [note](/contact). We don't mind how you get here — by land, air, or sea — just saddle up and get down to Austin. You'll be glad you did.
+
+

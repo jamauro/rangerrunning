@@ -3,16 +3,25 @@
 
 {{ define "main" }}
 <div id="wrapper"> <!-- for sticky footer -->
-<div id="hero" class="wrap">
-  <h1>{{.Title }}</h1>
-    <p>{{.Params.description}}</p>
+  <div id="hero" class="wrap">
+    <h1>{{.Title }}</h1>
+      <p>{{.Params.description}}</p>
+  </div>
+
+  <section class="main-content">
+    <div id="post-box">
+      {{ .Content }}
+    </div>
+    {{ if eq (relURL .URL) ("/about/" | safeHTML) }}
+      <div id='map-container'>
+        <div id='map'></div>
+      </div>
+    {{ end }}
+  </section>
 </div>
 
-<div id="content">
- {{ .Content }}
-</div>
-</div>
 {{ end }}
+
 
 {{ define "footer" }}
   {{ partial "footer" . }}

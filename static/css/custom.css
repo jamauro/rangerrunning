@@ -61,6 +61,7 @@ blockquote {
   line-height: 40px;
   margin: 40px 0;
   color: #FF4500; /*#1eabf2*/
+  font-weight: 100;
 }
 
 #top {
@@ -238,6 +239,7 @@ time.date:before {
 
 #hero p {
   font-size: 22px;
+  line-height: 32px;
   padding-top: 0px;
   margin-top: 12px;
 }
@@ -293,13 +295,12 @@ time.date:before {
 }
 
 #map-container {
-  margin-left:-100%;
-  margin-right:-100%;
   margin-top: 40px;
   margin-bottom: 40px;
+  max-height: 844px;
 }
 #map {
-  height: 600px;
+  height: 844px;
 }
 
 .main-content {
@@ -309,10 +310,14 @@ time.date:before {
   padding: 0 80px;
 }
 
+#featured-image img {
+  padding-bottom: 40px;
+}
+
 #post-box {
   max-width: 740px;
   margin: auto;
-  padding: 40px 0;
+  padding: 0;
 }
 
 #services .item {
@@ -424,6 +429,8 @@ footer {
   .main-content {
     padding: 0 20px;
   }
+
+
   .page-content {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -432,6 +439,10 @@ footer {
   }
   .page-content p {
     margin-top: 0px;
+  }
+
+  #map {
+    height: 334px;
   }
 
   #posts {
