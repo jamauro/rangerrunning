@@ -2,7 +2,6 @@
 categories = []
 date = "2018-04-16T14:24:23+00:00"
 description = ""
-draft = true
 featured_image = "/uploads/2018/05/04/ranger_howdyworld.jpg"
 tags = ["running", "5k", "Austin", "Texas", "running events"]
 title = "Howdy world!"
