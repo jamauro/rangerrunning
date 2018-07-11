@@ -4,6 +4,7 @@ description = "Ranger Running"
 languageCode = "en-us"
 theme = "kube"
 title = "Ranger Running"
+googleAnalytics = "UA-116675438-1"
 [[menu.main]]
   name = "Services"
   url = "/services/"
@@ -27,7 +28,6 @@ title = "Ranger Running"
   rsslink = "/index.xml"
   instagram = "rangerrunning"
   facebook = "rangerrunning"
-  googleAnalytics = "UA-116675438-1"
 [params.seo.webmaster_verifications]
   google = "tjb3E73TVHBZgW8-vjDur6ROKwgG40qhybyWdl9zqYk" # Optional, Google verification code
   bing = "" # Optional, Bing verification code
