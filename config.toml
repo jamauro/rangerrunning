@@ -23,11 +23,11 @@ googleAnalytics = "UA-116675438-1"
   weight = 4
 [params]
   author = "Ranger Running"
-  email = "myemail@myaddress.xxx"
+  email = "howdy@rangerrunning.com"
   github = ""
   rsslink = "/index.xml"
   instagram = "rangerrunning"
   facebook = "rangerrunning"
 [params.seo.webmaster_verifications]
   google = "tjb3E73TVHBZgW8-vjDur6ROKwgG40qhybyWdl9zqYk" # Optional, Google verification code
-  bing = "" # Optional, Bing verification code
+  bing = "05C96F6712DC73C89BC6A6D19C3F2FCA" # Optional, Bing verification code
