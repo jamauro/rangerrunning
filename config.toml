@@ -21,10 +21,13 @@ title = "Ranger Running"
   url = "/contact/"
   weight = 4
 [params]
-author = "Ranger Running"
-email = "myemail@myaddress.xxx"
-github = ""
-rsslink = "/index.xml"
-instagram = "rangerrunning"
-facebook = "rangerrunning"
-googleAnalytics = "UA-116675438-1"
+  author = "Ranger Running"
+  email = "myemail@myaddress.xxx"
+  github = ""
+  rsslink = "/index.xml"
+  instagram = "rangerrunning"
+  facebook = "rangerrunning"
+  googleAnalytics = "UA-116675438-1"
+[params.seo.webmaster_verifications]
+  google = "tjb3E73TVHBZgW8-vjDur6ROKwgG40qhybyWdl9zqYk" # Optional, Google verification code
+  bing = "" # Optional, Bing verification code
