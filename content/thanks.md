@@ -1,6 +1,7 @@
 +++
 description = "We'll be in touch shortly"
 title = "Thanks!"
+noindex = true
 
 +++
 
