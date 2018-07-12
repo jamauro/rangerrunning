@@ -31,3 +31,4 @@ googleAnalytics = "UA-116675438-1"
 [params.seo.webmaster_verifications]
   google = "tjb3E73TVHBZgW8-vjDur6ROKwgG40qhybyWdl9zqYk" # Optional, Google verification code
   bing = "05C96F6712DC73C89BC6A6D19C3F2FCA" # Optional, Bing verification code
+  yandex = "7de1aa3ba6cd6d12"
