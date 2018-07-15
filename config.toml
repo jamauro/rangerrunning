@@ -1,11 +1,10 @@
 Paginate = 4
-baseURL = "/"
+baseURL = "https://rangerrunning.com"
 description = "Ranger Running"
 languageCode = "en-us"
 theme = "kube"
 title = "Ranger Running"
 googleAnalytics = "UA-116675438-1"
-canonifyURLs = true
 [[menu.main]]
   name = "Services"
   url = "/services/"
