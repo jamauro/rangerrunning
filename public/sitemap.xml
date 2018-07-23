@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rangerrunning.com/about/</loc>
+    <lastmod>2018-01-29T01:24:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/blog/howdy-world/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/tags/5k/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/tags/austin/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/blog/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/tags/running/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/tags/running-events/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/tags/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/tags/texas/</loc>
+    <lastmod>2018-04-16T14:24:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rangerrunning.com/thanks/</loc>
+  </url>
+  
+</urlset>

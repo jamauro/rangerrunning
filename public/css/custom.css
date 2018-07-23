@@ -403,7 +403,6 @@ footer {
 
   #hero {
     margin-top: 60px;
-    padding: 0;
   }
 
   #hero img {
@@ -411,24 +410,16 @@ footer {
   }
 
   #hero.logo {
-    padding-top: 40px;
+    padding-top: 48px;
     background-position: 30% 50%;
     background-size: 320px 283px;
-    margin-top: 80px;
-    margin-bottom: 160px;
+    margin-top: 100px;
+    margin-bottom: 140px;
   }
 
   #hero.logo h1 {
     font-size: 60px;
-    line-height: 56px;
-    padding-top: 16px;
   }
-
-  #hero .description {
-    line-height: 30px;
-    padding-top: 12px;
-  }
-
   #hero h1 {
     font-size: 40px;
   }

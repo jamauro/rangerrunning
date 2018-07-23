@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ranger Running</title>
+    <link>https://rangerrunning.com/</link>
+    <description>Recent content on Ranger Running</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
+    
+	<atom:link href="https://rangerrunning.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://rangerrunning.com/about/</link>
+      <pubDate>Mon, 29 Jan 2018 01:24:30 +0000</pubDate>
+      
+      <guid>https://rangerrunning.com/about/</guid>
+      <description>Running is a unifier, whether you’re doing it alone or with 50,000 other people. The shared camaraderie surpasses language and cultural barriers — any person at any level of fitness can share in the bond of being a ‘runner’. Ranger Running exists for the single purpose of bringing fellow runners together for unique events, while providing quality amenities, comprehensive safety, and logistical precision. Whether the running event is for a charity, conference, festival, or corporate function, our goal is to customize and create a final product that matches your vision.</description>
+    </item>
+    
+    <item>
+      <title>Howdy world!</title>
+      <link>https://rangerrunning.com/blog/howdy-world/</link>
+      <pubDate>Mon, 16 Apr 2018 14:24:23 +0000</pubDate>
+      
+      <guid>https://rangerrunning.com/blog/howdy-world/</guid>
+      <description>We’re so excited to be here! Let me tell you a little bit about how we got started. Ranger Running grew out of three friends’ love of lacing up the kicks and pounding the pavement. With diverse backgrounds in tech, the Army Rangers, and selling running shoes, we all bring something different to the table. We know how to use the latest technology to provide you with enhanced amenities, we have precise organization and discipline, and we have a wealth of knowledge and experience organizing and leading running events.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rangerrunning.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangerrunning.com/contact/</guid>
+      <description>How many are in your group? 1-10 11-50 51-100 100+   Send  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://rangerrunning.com/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangerrunning.com/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thanks!</title>
+      <link>https://rangerrunning.com/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangerrunning.com/thanks/</guid>
+      <description>In the meantime, check us out on Instagram or Facebook</description>
+    </item>
+    
+  </channel>
+</rss>
