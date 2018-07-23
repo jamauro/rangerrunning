@@ -403,7 +403,6 @@ footer {
 
   #hero {
     margin-top: 60px;
-    padding: 0;
   }
 
   #hero img {
@@ -412,6 +411,8 @@ footer {
 
   #hero.logo {
     padding-top: 40px;
+    padding-left: 0;
+    padding-right: 0;
     background-position: 30% 50%;
     background-size: 320px 283px;
     margin-top: 80px;
