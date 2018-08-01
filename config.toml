@@ -5,6 +5,7 @@ languageCode = "en-us"
 theme = "kube"
 title = "Ranger Running"
 googleAnalytics = "UA-116675438-1"
+enableGitInfo = true
 [[menu.main]]
   name = "Services"
   url = "/services/"

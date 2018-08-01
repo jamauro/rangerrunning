@@ -1,5 +1,4 @@
 +++
-date = "2018-01-29T01:24:30+00:00"
 title = "About Us"
 description ="Bringing fellow runners together for unique events"
 weight = 2
