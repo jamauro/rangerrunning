@@ -3,7 +3,7 @@ baseURL = "https://swiftfitevents.com"
 description = "Swift Fit Events"
 languageCode = "en-us"
 theme = "kube"
-title = "Swift Fit"
+title = "Swift Fit Events"
 googleAnalytics = "UA-116675438-1"
 enableGitInfo = true
 [[menu.main]]
