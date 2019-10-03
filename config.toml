@@ -1,15 +1,11 @@
 Paginate = 4
-baseURL = "https://rangerrunning.com"
-description = "Ranger Running"
+baseURL = "https://swiftfitevents.com"
+description = "Swift Fit Events"
 languageCode = "en-us"
 theme = "kube"
-title = "Ranger Running"
+title = "Swift Fit"
 googleAnalytics = "UA-116675438-1"
 enableGitInfo = true
-[[menu.main]]
-  name = "Services"
-  url = "/services/"
-  weight = 1
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
@@ -23,12 +19,12 @@ enableGitInfo = true
   url = "/contact/"
   weight = 4
 [params]
-  author = "Ranger Running"
-  email = "howdy@rangerrunning.com"
+  author = "Swift Fit Events"
+  email = "howdy@swiftfitevents.com"
   github = ""
   rsslink = "/index.xml"
-  instagram = "rangerrunning"
-  facebook = "rangerrunning"
+  instagram = "swiftfitevents"
+  facebook = "swiftfitevents"
   noindex_kinds = [
     "taxonomy",
     "taxonomyTerm"

@@ -1,31 +1,35 @@
 <div class="show-sm">
-    <div id="nav-toggle-box">
-      <div id="top-brand">
-      <a href="/" title="Ranger Running"><img alt="Ranger Running Logo" height="24" src="{{ "/img/rangerfoxhead.png" | relURL }}" width="24">Ranger Running</a>
-    </div>
-      <div id="nav-toggle-brand">
-      </div><a data-component="toggleme" data-target="#top" href="#" id="nav-toggle"><i class="kube-menu"></i></a>
-    </div>
-  </div>
-  <div class="hide-sm" id="top">
+  <div id="nav-toggle-box">
     <div id="top-brand">
-      <a href="/" title="Ranger Running"><img alt="Ranger Running Logo" height="24" src="{{ "/img/rangerfoxhead.png" | relURL }}" width="24">Ranger Running</a>
+      <a href="/" title="Swift Fit Events">
+        <img alt="Swift Fit Events Logo" height="72" src="{{ "/img/swiftfitlogo.svg" | relURL }}" width="72">
+      Swift Fit Events
+      </a>
     </div>
-    <nav id="top-nav-main">
-      <ul>
-       {{ $currentPage := . }}
-       {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}>{{ .Name }}</a></li>
-    {{end}}
-      </ul>
-    </nav>
-    <nav id="top-nav-extra">
-      <ul>
-        {{ range .Site.Menus.extra }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Name }}</a>
-          </li>
-        {{ end }}
-      </ul>
-    </nav>
+    <a data-component="toggleme" data-target="#top" href="#" id="nav-toggle"><i class="kube-menu"></i></a>
   </div>
+</div>
+<div class="hide-sm" id="top">
+  <div id="top-brand">
+    <a href="/" title="Swift Fit Events">
+      <img alt="Swift Fit Events Logo" height="72" src="{{ "/img/swiftfitlogo.svg" | relURL }}" width="72">
+      Swift Fit Events</a>
+  </div>
+  <nav id="top-nav-main">
+    <ul>
+     {{ $currentPage := . }}
+     {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}>{{ .Name }}</a></li>
+  {{end}}
+    </ul>
+  </nav>
+  <nav id="top-nav-extra">
+    <ul>
+      {{ range .Site.Menus.extra }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Name }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>

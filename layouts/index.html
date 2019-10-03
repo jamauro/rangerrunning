@@ -4,51 +4,75 @@
 
 <div id="main">
   <div id="hero" class="logo">
-    <img alt="Ranger Running logo" height="48" src="{{ "/img/rangerfox.svg" | relURL }}" width="216">
-    <h1>{{.Title}}</h1>
-    <div class="description">{{.Description}}</div>
+    <div class="wrapper">
+      <h1 class="title">Onsite fitness and wellness activities for meetings and conferences</h1>
+      <a href="/contact" class="button big">Get in touch</a>
+      <!-- <img alt="Swift Fit Events logo" height="48" src="{{ "/img/swiftfitlogo.svg" | relURL }}" width="216">
+      <h1 class="title">Swift Fit</h1>
+      <div class="description">Events</div> -->
+    </div>
+  </div>
+  <div id="featured-image">
+    <img alt="Swift Fit Yoga" src="{{ "/img/swiftfit_yoga.jpg" | relURL }}">
   </div>
 
-  <div id="video-background">
+  <!-- <div id="video-background">
     <video autoplay loop muted playsinline>
       <source src="https://player.vimeo.com/external/158148793.hd.mp4?s=8e8741dbee251d5c35a759718d4b0976fbf38b6f&profile_id=119&oauth2_token_id=57447761" type="video/mp4">
     </video>
-  </div>
-  <section id="about-ranger">
-    <div class="page-content">
-      <div class="row gutters">
-        <div class="col col-6 item">
-          <h1>Running with <br> Ranger</h1>
-        </div>
-        <div class="col col-6 item">
-          <p>Running with Ranger is a one-of-a-kind experience for your organization. We treat your team to a tour of Texas' finest cities while enjoying some fun exercise and building camaraderie. Ranger Running features local logistics experts, professional runners, and ex-military managers to ensure your running event goes perfectly from start to finish. Let us run your event and take care of the hard work, while you enjoy yourself.</p>
-          <a href="/services">Check out our services &rarr;</a>
+  </div> -->
+  <section id="about-swiftfit">
+    <div class="wrapper">
+      <div class="page-content">
+        <div class="row gutters">
+          <div class="col col-6 item">
+            <h1 class="tight">Rejuvenate<br>Restore<br>Revitalize</h1>
+          </div>
+          <div class="col col-6 item">
+            <p>Swift Fit Events offers exercise and mindfulness activities for conferences, conventions and corporate events. We bring unique local experiences to meeting locations so attendees can seamlessly enjoy their morning exercise or mid-day meditation without any hassle. We aim to strengthen, replenish and enliven attendees so they can bring their best selves to their event. <br><br>By offering both group exercises and mindfulness sessions, Swift Fit Events focuses on revitalizing both the body and the mind of participants, while simultaneously providing a chance to experience and learn about the city. Our experienced staff of guides and instructors bring healthy activities directly to the client, so attendees can replenish energy, sharpen their focus and radiate positivity throughout their visit.</p>
+            <!-- <a href="/services">Check out our services &rarr;</a> -->
+          </div>
         </div>
       </div>
-    </div>
+    <div class="wrapper">
   </section>
   <section id="gallery">
-    <div class="row gutters">
-      <div class="col col-4 item">
-        <img alt="Austin Texas" height="100%" src="{{ "/img/ranger_austin.jpg" | relURL }}" width="100%">
-      </div>
-       <div class="col col-4 item">
-        <img alt="Downtown Austin Texas" height="100%" src="{{ "/img/ranger_skyline.jpg" | relURL }}" width="100%">
-      </div>
-       <div class="col col-4 item">
-        <img alt="Austin Beer" height="100%" src="{{ "/img/ranger_beer.jpg" | relURL }}" width="100%">
+    <div class="wrapper">
+      <div class="row gutters">
+        <div class="col col-4 item">
+          <img alt="Austin Texas" height="100%" src="{{ "/img/swiftfit_groupfitness.jpg" | relURL }}" width="100%">
+        </div>
+         <div class="col col-4 item">
+          <img alt="Downtown Austin Texas" height="100%" src="{{ "/img/ranger_skyline.jpg" | relURL }}" width="100%">
+        </div>
+         <div class="col col-4 item">
+          <img alt="Austin Beer" height="100%" src="{{ "/img/swiftfit_shoes.jpg" | relURL }}" width="100%">
+        </div>
       </div>
     </div>
   </section>
   <section id="testimonial">
-    <div class="page-content">
-      <div class="row gutters">
-        <div class="col col-12 item quote">
-          <h1>&ldquo;Very professional and took care of everything&rdquo;</h1>
-          <p>&mdash; Ben W, CEO Tallest Point</p>
+    <div class="wrapper">
+      <div class="page-content">
+        <div class="row gutters">
+          <div class="col col-12 item quote">
+            <h1>&ldquo;Very professional and took care of everything&rdquo;</h1>
+            <p>&mdash; Ben W, CEO Tallest Point</p>
+          </div>
         </div>
       </div>
     </div>
+  </section>
+  <section id="testimonial">
+    <div class="wrapper">
+      <div class="page-content">
+        <div class="row gutters">
+          <div class="col col-12 item">
+            <img alt="Swift Fit Events Logo" height="800" src="{{ "/img/swiftfitlogo.svg" | relURL }}" width="800">
+          </div>
+        </div>
+      </div>
+    <div class="wrapper">
   </section>
   {{ partial "cta" .}}
 </div>

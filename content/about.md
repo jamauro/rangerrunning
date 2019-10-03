@@ -1,5 +1,5 @@
 +++
-title = "About Us"
+title = "About"
 description ="Bringing fellow runners together for unique events"
 weight = 2
 
