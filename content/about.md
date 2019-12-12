@@ -1,5 +1,5 @@
 +++
-description = "Bringing fellow runners together for unique events"
+description = "Bringing fitness and wellness activities to you"
 title = "About"
 weight = 2
 
