@@ -1,6 +1,6 @@
 ---
+label: blog
 hide_body: false
-is_partial: false
 fields:
 - name: categories
   label: Categories
@@ -47,3 +47,5 @@ fields:
   type: boolean
   hidden: false
   default: false
+pages:
+- content/blog/howdy-world.md
