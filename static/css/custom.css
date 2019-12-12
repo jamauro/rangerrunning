@@ -230,7 +230,11 @@ blockquote {
   font-size: 72px;
   margin: 0 auto;
   font-weight: 600;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
+}
+
+#hero h1.title {
+  margin-bottom: 28px;
 }
 
 #hero.logo h1 {
@@ -373,6 +377,42 @@ time.date:before {
   margin-bottom: 40px;
 }
 
+#activities .page-content {
+  padding-top: 0;
+}
+
+#activities h2 {
+  text-transform: uppercase;
+  margin-top: 6rem;
+}
+
+#activities h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #FF4D00;
+  margin-top: 3rem;
+}
+
+#activities ul {
+  margin-left: 0;
+  max-width: 480px;
+}
+
+#activities li {
+  list-style: none;
+  font-style: italic;
+  font-size: 16px;
+}
+
+#activities img {
+  margin-top: 16px;
+}
+
+#activities .listing li {
+  font-size: 20px;
+  font-style: normal;
+}
+
 input, select, textarea {
   height: 48px;
   font-size: 1em;
@@ -510,11 +550,11 @@ footer {
     margin-top: 0px;
   }
 
-  #services .page-content {
+  #activities .page-content {
     padding-top: 0px;
   }
 
-  #services .item {
+  #activities .item {
     padding: 0;
   }
 

@@ -7,6 +7,10 @@ title = "Swift Fit Events"
 googleAnalytics = "UA-116675438-1"
 enableGitInfo = true
 [[menu.main]]
+  name = "Activites"
+  url = "/activities/"
+  weight = 1
+[[menu.main]]
   name = "Blog"
   url = "/blog/"
   weight = 2
@@ -20,7 +24,7 @@ enableGitInfo = true
   weight = 4
 [params]
   author = "Swift Fit Events"
-  email = "howdy@swiftfitevents.com"
+  email = "lee@swiftfitevents.com"
   github = ""
   rsslink = "/index.xml"
   instagram = "swiftfitevents"

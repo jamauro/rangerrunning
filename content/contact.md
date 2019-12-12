@@ -3,7 +3,7 @@ description = "Send us the details for your event. We'll reply with a quote and 
 title = "Contact"
 
 +++
-<form method="POST" action="https://formspree.io/howdy@rangerrunning.com" class="contact">
+<form method="POST" action="https://formspree.io/lee@swiftfitevents.com" class="contact">
   <input type="name" name="name" placeholder="Name">
   <input type="email" name="email" placeholder="Email">
   <select name="groupsize" id="groupsize">

@@ -1,16 +1,32 @@
 body {
-  font-family: 'Maison Neue', Helvetica, Arial, sans-serif;
-  color: rgba(29, 29, 29, .7);
-  font-size: 18px;
-  line-height: 32px;
+  font-family: 'Calibre', Helvetica, Arial, sans-serif;
+  color: #003B4A;
+  font-size: 20px;
+  line-height: 1.8;
+  background-color: #FFFCF8;
+}
+
+header {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background-color: #FFFCF8;
+  text-transform: uppercase;
+  z-index: 10;
 }
 
 h1.title, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: 'Maison Neue', Helvetica, Arial, sans-serif; }
+  font-family: 'Calibre', Helvetica, Arial, sans-serif;
+  color: #003B4A;
+}
 
 h1 {
   font-weight: 300;
-  color: #212121;
+  color: #003B4A;
+}
+
+.tight {
+  line-height: 1.2;
 }
 
 section h1 {
@@ -21,20 +37,28 @@ section h1 {
 
 
 h3 {
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 0.05em;
 }
 
 button, .button {
-  font-family: 'Maison Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Calibre', Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
-  padding-top: 10px;
-  background-color: #FF4500;
+  font-style: italic;
+  padding-top: 12px;
+  background-color: #FF4D00;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   border-radius: 2px;
   padding-left: -10px;
+}
+
+.button.big {
+  font-size: 22px;
+  padding-top: 22px;
+  padding-bottom: 16px;
+  border-radius: 2px;
 }
 
 button:hover, .button:hover {
@@ -43,13 +67,19 @@ button:hover, .button:hover {
 
 
 a {
-  color: #FF4500; /*#1eabf2*/
+  color: #FF4D00; /*#1eabf2*/
   text-decoration: none;
 }
 
 a:hover {
   color: #FF2800;
 }
+
+a svg #facebook,
+a svg #instagram {
+  fill: rgba(255, 255, 255, 0.5);
+}
+
 
 a svg:hover #facebook,
 a svg:hover #instagram {
@@ -60,7 +90,7 @@ blockquote {
   font-size: 32px;
   line-height: 40px;
   margin: 40px 0;
-  color: #FF4500; /*#1eabf2*/
+  color: #FF4D00; /*#1eabf2*/
   font-weight: 100;
 }
 
@@ -72,7 +102,6 @@ blockquote {
 
 #top #top-brand {
   float: left;
-  margin-top: 2px;
   line-height: 40px;
 }
 
@@ -85,7 +114,7 @@ blockquote {
 #top #top-nav-main {
   padding-left: 0px;
   border-left: none;
-  line-height: 40px;
+  line-height: 44px;
 }
 
 #top #top-nav-main li {
@@ -95,15 +124,15 @@ blockquote {
 }
 
 #top #top-nav-main a {
-  color: #212121;
+  color: rgba(0,0,0,.5);
 }
 
 #top-brand a {
-  font-family: 'Trim', Helvetica, Arial, sans-serif;
+  font-family: 'Calibre', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 16px;
-  color: #212121;
+  color: #003B4A;
   letter-spacing: 0.05em;
 }
 
@@ -119,8 +148,7 @@ blockquote {
 }
 
 #top-nav-main a {
-  font-size: 12px;
-  color: #212121;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
@@ -129,12 +157,24 @@ blockquote {
   text-decoration: none;
 }
 
-#wrapper {
-  min-height: calc(100vh - 600px); /* sticky footer */
+#nav-toggle-box {
+  padding: 8px 16px 4px 16px;
+}
+
+
+#nav-toggle {
+  color: #003B4A;
+  padding-right: 0;
+  padding-top: 8px;
+}
+
+.wrapper {
+  padding: 0 40px;
+  /* min-height: calc(100vh - 600px);  sticky footer */
 }
 
 #main {
-  padding: 0 40px;
+  /* padding: 0 40px; */
   max-width: 100%;
 }
 
@@ -142,8 +182,8 @@ blockquote {
   /* background: url(/img/texas.svg) no-repeat; */
   background-size: contain;
   height: 332px;
-  margin-top: 180px;
-  margin-bottom: 320px;
+  margin-top: 100px;
+  margin-bottom: 160px;
   background-position: 48% 50%;
 }
 
@@ -186,31 +226,33 @@ blockquote {
 
 
 #hero h1 {
-  font-family: 'Trim';
-  letter-spacing: 0.05em;
-  font-size: 60px;
+  color: #003B4A;
+  font-size: 72px;
   margin: 0 auto;
-  font-weight: 700;
-  padding-top: 20px;
-  text-transform: uppercase;
+  font-weight: 600;
+  /* margin-bottom: 20px; */
+}
+
+#hero h1.title {
+  margin-bottom: 28px;
 }
 
 #hero.logo h1 {
   line-height: 1em;
+  margin-top: -50px;
 }
 #hero .description {
-  font-family: 'Trim Mono Web', monospace, sans-serif;
+  font-family: 'Calibre', Helvetica, sans-serif;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 24px;
-  font-weight: 100;
-  line-height: 24px;
-  color: #313439;
-  padding-top: 8px;
+  letter-spacing: 8px;
+  font-size: 28px;
+  font-weight: 500;
+  margin-top: -16px;
+  color: #FF4D00;
 }
 
 #hero.blog h1 {
-  font-family: 'Maison Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Calibre', Helvetica, Arial, sans-serif;
   font-weight: 300;
   letter-spacing: 0;
   margin-top: 60px;
@@ -244,10 +286,11 @@ time.date:before {
 }
 
 #hero p {
-  font-size: 22px;
-  line-height: 32px;
+  font-size: 24px;
+  line-height: 1.5;
   padding-top: 0px;
   margin-top: 12px;
+  color: rgba(0,59,74,0.5);
 }
 #hero p:before {
   background: none;
@@ -334,6 +377,43 @@ time.date:before {
   margin-bottom: 40px;
 }
 
+#activities .page-content {
+  padding-top: 0;
+}
+
+#activities h2 {
+  text-transform: uppercase;
+  margin-top: 6rem;
+}
+
+#activities h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #FF4D00;
+  margin-top: 3rem;
+}
+
+#activities ul {
+  margin-left: 0;
+  max-width: 480px;
+}
+
+#activities li {
+  list-style: none;
+  font-style: italic;
+  font-size: 16px;
+}
+
+#activities img {
+  margin-top: 16px;
+  margin-left: 16px;
+}
+
+#activities .listing li {
+  font-size: 20px;
+  font-style: normal;
+}
+
 input, select, textarea {
   height: 48px;
   font-size: 1em;
@@ -356,9 +436,7 @@ footer {
   font-size: 16px;
   display: block;
   margin: 0 auto;
-  background: url(/img/camo.svg) repeat;
-
-  background-color: #212121;
+  background-color: #003B4A;
 }
   #footer ul {
     margin: 0px;
@@ -394,7 +472,7 @@ footer {
 
 @media (max-width: 768px) {
   section h1 {
-    font-size: 32px;
+    font-size: 48px;
   }
 
   #top #top-nav-main li {
@@ -410,16 +488,26 @@ footer {
   }
 
   #hero.logo {
-    padding-top: 48px;
+    padding-top: 40px;
+    padding-left: 0;
+    padding-right: 0;
     background-position: 30% 50%;
     background-size: 320px 283px;
-    margin-top: 100px;
-    margin-bottom: 140px;
+    margin-top: 80px;
+    margin-bottom: 160px;
   }
 
   #hero.logo h1 {
     font-size: 60px;
+    line-height: 56px;
+    padding-top: 16px;
   }
+
+  #hero .description {
+    line-height: 30px;
+    padding-top: 12px;
+  }
+
   #hero h1 {
     font-size: 40px;
   }
@@ -429,7 +517,11 @@ footer {
   }
 
   #main {
+    padding: 0;
+  }
+  .wrapper {
     padding: 0 20px;
+    /* min-height: calc(100vh - 600px);  sticky footer */
   }
   #content {
     padding-left: 20px;
@@ -459,11 +551,11 @@ footer {
     margin-top: 0px;
   }
 
-  #services .page-content {
+  #activities .page-content {
     padding-top: 0px;
   }
 
-  #services .item {
+  #activities .item {
     padding: 0;
   }
 
