@@ -3,7 +3,7 @@ description = "Send us the details for your event. We'll reply with a quote and 
 title = "Contact"
 
 +++
-<form id="subscribe" name="subscribe" method="POST" netlify-honeypot="bot-field" action="/thanks" netlify>
+<form id="subscribe" name="contact" method="POST" netlify-honeypot="bot-field" action="/thanks" netlify>
   <span class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </span>
