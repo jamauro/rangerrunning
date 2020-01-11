@@ -3,7 +3,10 @@ description = "Send us the details for your event. We'll reply with a quote and 
 title = "Contact"
 
 +++
-<form method="POST" action="https://formspree.io/lee@swiftfitevents.com" class="contact">
+<form id="subscribe" name="subscribe" method="POST" netlify-honeypot="bot-field" action="/thanks" netlify>
+  <span class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </span>
   <input type="name" name="name" placeholder="Name">
   <input type="email" name="email" placeholder="Email">
   <select name="groupsize" id="groupsize">
@@ -15,6 +18,5 @@ title = "Contact"
   </select>
   <textarea name="message" placeholder="Any notes you want to add (optional)"></textarea>
   <button type="submit">Send</button>
-  <input type="hidden" name="_next" value="/thanks" />
-  <input type="hidden" name="_subject" value="Running with Ranger" />
 </form>
+
