@@ -1,39 +1,36 @@
 Paginate = 4
 baseURL = "https://swiftfitevents.com"
 description = "Swift Fit Events"
+enableGitInfo = true
+googleAnalytics = "UA-116675438-1"
 languageCode = "en-us"
 theme = "kube"
 title = "Swift Fit Events"
-googleAnalytics = "UA-116675438-1"
-enableGitInfo = true
 [[menu.main]]
-  name = "Activites"
-  url = "/activities/"
-  weight = 1
+name = "Activites"
+url = "/activities/"
+weight = 1
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 2
+name = "Contact"
+url = "/contact/"
+weight = 5
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 3
+name = "About"
+url = "/about/"
+weight = 3
 [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 4
+name = "Blog"
+url = "/blog/"
+weight = 2
 [params]
-  author = "Swift Fit Events"
-  email = "lee@swiftfitevents.com"
-  github = ""
-  rsslink = "/index.xml"
-  instagram = "swiftfitevents"
-  facebook = "swiftfitevents"
-  noindex_kinds = [
-    "taxonomy",
-    "taxonomyTerm"
-  ]
+author = "Swift Fit Events"
+email = "lee@swiftfitevents.com"
+facebook = "swiftfitevents"
+github = ""
+instagram = "swiftfitevents"
+noindex_kinds = ["taxonomy", "taxonomyTerm"]
+rsslink = "/index.xml"
 [params.seo.webmaster_verifications]
-  google = "tjb3E73TVHBZgW8-vjDur6ROKwgG40qhybyWdl9zqYk" # Optional, Google verification code
-  bing = "05C96F6712DC73C89BC6A6D19C3F2FCA" # Optional, Bing verification code
-  yandex = "7de1aa3ba6cd6d12"
+bing = "05C96F6712DC73C89BC6A6D19C3F2FCA"
+google = "tjb3E73TVHBZgW8-vjDur6ROKwgG40qhybyWdl9zqYk"
+yandex = "7de1aa3ba6cd6d12"
