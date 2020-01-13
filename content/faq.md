@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 title = "FAQ"
 [menu.main]
 weight = 4
