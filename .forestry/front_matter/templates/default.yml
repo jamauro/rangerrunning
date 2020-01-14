@@ -7,11 +7,11 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
+- name: description
   type: text
-  hidden: false
-  default: 
+  config:
+    required: false
+  label: Description
 - name: draft
   label: Draft
   type: boolean
