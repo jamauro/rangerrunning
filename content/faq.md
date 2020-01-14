@@ -1,8 +1,6 @@
 +++
 date = ""
 title = "FAQ"
-[menu.main]
-weight = 4
 
 +++
 #### What type of events does Swift Fit offer services for?
