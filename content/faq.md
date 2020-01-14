@@ -1,5 +1,4 @@
 +++
-date = ""
 description = ""
 title = "FAQ"
 
