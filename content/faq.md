@@ -1,4 +1,5 @@
 +++
+date = ""
 description = ""
 title = "FAQ"
 
@@ -7,7 +8,7 @@ title = "FAQ"
 
 Swift Fit focuses on large corporate events and conferences primarily, however we also offer options for smaller groups & events like company team-building, weddings, and other private groups.
 
-#### What is the pricing for each activity or event
+#### What is the pricing for each activity or event?
 
 Pricing is available upon request
 
