@@ -33,7 +33,7 @@ There is no minimum group size to host an activity. Billing typically begins at 
 
 #### Maximum group size for a private group at one time?
 
-We have hosted activities up too 1,500 people. Large groups will be broken down into smaller, more manageable groups.
+We have hosted activities up to 1,500 people. Large groups will be broken down into smaller, more manageable groups.
 
 #### Do you offer a DMC or group discount? If so, what are those rates?
 
@@ -42,7 +42,7 @@ We do! Please inquire by emailing [Lee@swiftfitevents.com](mailto:Lee@SwiftFitEv
 #### What activities does Swift Fit Provide?
 
 Check them out here!
-[https://swiftfitevents.com/activities/](https://swiftfitevents.com/activities/ "https://swiftfitevents.com/activities/")
+[Activities](https://swiftfitevents.com/activities/ "https://swiftfitevents.com/activities/")
 
 #### Note any special information or circumstances we should be aware of when proposing to clients (guests must sign waiver, etc)
 
