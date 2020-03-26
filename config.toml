@@ -7,7 +7,7 @@ title = "Swift Fit Events"
 googleAnalytics = "UA-116675438-1"
 enableGitInfo = true
 [[menu.main]]
-  name = "Activites"
+  name = "Activities"
   url = "/activities/"
   weight = 1
 [[menu.main]]
