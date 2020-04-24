@@ -49,3 +49,4 @@ fields:
   default: false
 pages:
 - content/blog/howdy-world.md
+- content/blog/test.md
