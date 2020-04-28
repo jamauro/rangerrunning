@@ -207,10 +207,10 @@ blockquote {
 
 #cta {
   margin: 0 auto;
-  padding-top: 28px;
-  padding-bottom: 28px;
-  padding-left: 40px;
-  background-color: #E8E8E8;
+  margin-bottom: 80px;
+  padding: 24px 48px;
+  text-align: center;
+  background-color: #FFF1DF;
   max-width: 748px;
   border-radius: 2px;
 }
