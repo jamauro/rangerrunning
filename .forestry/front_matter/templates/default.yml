@@ -19,3 +19,4 @@ fields:
   default: true
 pages:
 - content/faq.md
+- content/virtual-classes.md
