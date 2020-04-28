@@ -3,6 +3,8 @@ date = nil
 description = ""
 draft = true
 title = "Virtual Classes"
+[menu.main]
+weight = 2
 
 +++
 \## Bootcamp Class
