@@ -48,5 +48,6 @@ fields:
   hidden: false
   default: false
 pages:
+- content/blog/Corporate Wellness Programs in the Covid-19 Era.md
 - content/blog/howdy-world.md
 - content/blog/test.md
