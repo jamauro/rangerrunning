@@ -2,7 +2,6 @@
 categories = []
 date = 2020-04-29T16:30:00Z
 description = ""
-draft = true
 featured_image = "/uploads/2020/04/29/Swift Fit Events-17.jpg"
 tags = ["corporate wellness", "corporate", "quarantine", "health and wellness", "virtual"]
 title = "Corporate Wellness Programs in the Covid-19 Era"
