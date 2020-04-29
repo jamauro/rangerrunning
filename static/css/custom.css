@@ -279,9 +279,9 @@ blockquote {
 }
 
 .post-time {
-  font-family: 'MaisonNeue-Mono';
+  font-family: 'Calibre', sans-serif;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 #post p {
@@ -295,7 +295,7 @@ blockquote {
 }
 
 time {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 time.date:before {
@@ -332,6 +332,7 @@ time.date:before {
   font-size: 40px;
   font-weight: 300;
   margin: 20px 0;
+  line-height: 1.2;
 }
 
 .post-snippet {
