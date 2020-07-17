@@ -5,7 +5,7 @@ title = "Virtual Classes"
 +++
 
 <section id="cta">
-  <h3>Schedule today! Group discounts available. <a href="mailto:info@swiftfitevents.com?subject=virtual class" class="button">Email us</a></h3>
+  <h3>Schedule today! Group discounts available. <a href="#schedule" class="button">Schedule</a></h3>
 </section>
 
 ## Bootcamp Class
@@ -60,3 +60,26 @@ A Reiki 1:1 session can help ease tension and stress and is often utilized for o
 
 - $150 per 60 minute session
 - One-on-one session
+
+<br>
+
+<h2 id="schedule">Schedule Today!</h2>
+<form id="schedule-form" name="schedule virtual class" method="POST" netlify-honeypot="bot-field" action="/thanks" netlify>
+  <span class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </span>
+  <input type="name" name="name" placeholder="Name">
+  <input type="email" name="email" placeholder="Email">
+  <select name="virtualclass" id="virtualclass">
+      <option value="" disabled selected>Select your class</option>
+      <option value="bootcamp">Bootcamp</option>
+      <option value="kickboxing">Kickboxing</option>
+      <option value="dance fitness">Dance Fitness</option>
+      <option value="meditation">Meditation</option>
+      <option value="yoga">Yoga</option>
+      <option value="stress management seminar">Stress Management Seminar</option>
+  </select>
+  <input type="text" name="date" placeholder="Preferred date and time">
+  <textarea name="message" placeholder="Any notes you want to add (optional)"></textarea>
+  <button type="submit">Send</button>
+</form>
