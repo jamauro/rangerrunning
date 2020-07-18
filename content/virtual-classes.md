@@ -8,6 +8,22 @@ title = "Virtual Classes"
   <h3>Schedule today! Group discounts available. <a href="#schedule" class="button">Schedule</a></h3>
 </section>
 
+## Yoga
+Learn the proper alignment and the health benefits of each yoga pose as we move through our virtual slow-flow practice. Classes are casual, fun and can be adjusted to fit and support all fitness levels.
+
+- $100 per 60 minute session
+- Up to 20 guests ($5 per person)
+
+<br>
+
+## Meditation
+Meditation is a scientifically proven way to release stress, focus your mind, increase productivity, and help you relax in this increasingly bizarre and stressful quarantine. The theme of the meditation classes can be curated based on the needs of the individual or group.
+
+- $80 per 60 minute session
+- Up to 20 guests ($4 per person)
+
+<br>
+
 ## Bootcamp Class
 Dynamic, fun and challenging virtual workouts led by amazing trainers who inspire you to discover your best self. Develop muscular strength and power, while also improving cardio through a virtual at-home class.
 
@@ -15,6 +31,7 @@ Dynamic, fun and challenging virtual workouts led by amazing trainers who inspir
 - Up to 20 guests ($6.25 per person)
 
 <br>
+
 ## Kickboxing Class
 Work on that jab, cross, hook combo with a beat-based virtual fitness kickboxing class. No equipment needed! Shadowboxing and body weight exercises timed to the tempo of a shared music playlist will guarantee you a killer workout at home.
 
@@ -39,22 +56,6 @@ Book a 1:1 session with one of our instructors to inquire, seek, and reveal what
 
 <br>
 
-## Yoga
-Learn the proper alignment and the health benefits of each yoga pose as we move through our virtual slow-flow practice. Classes are casual, fun and can be adjusted to fit and support all fitness levels.
-
-- $100 per 60 minute session
-- Up to 20 guests ($5 per person)
-
-<br>
-
-## Meditation
-Meditation is a scientifically proven way to release stress, focus your mind, increase productivity, and help you relax in this increasingly bizarre and stressful quarantine. The theme of the meditation classes can be curated based on the needs of the individual or group.
-
-- $80 per 60 minute session
-- Up to 20 guests ($4 per person)
-
-<br>
-
 ## Reiki
 A Reiki 1:1 session can help ease tension and stress and is often utilized for one’s personal wellness. Distance Reiki treatments are just as effective as in-person treatments, allowing patients to receiving healing from afar..
 
@@ -72,11 +73,11 @@ A Reiki 1:1 session can help ease tension and stress and is often utilized for o
   <input type="email" name="email" placeholder="Email">
   <select name="virtualclass" id="virtualclass">
       <option value="" disabled selected>Select your class</option>
+      <option value="yoga">Yoga</option>
+      <option value="meditation">Meditation</option>
       <option value="bootcamp">Bootcamp</option>
       <option value="kickboxing">Kickboxing</option>
       <option value="dance fitness">Dance Fitness</option>
-      <option value="meditation">Meditation</option>
-      <option value="yoga">Yoga</option>
       <option value="stress management seminar">Stress Management Seminar</option>
   </select>
   <input type="text" name="date" placeholder="Preferred date and time">
