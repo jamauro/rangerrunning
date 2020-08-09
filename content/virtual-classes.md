@@ -66,6 +66,7 @@ A Reiki 1:1 session can help ease tension and stress and is often utilized for o
 
 <!-- Start Square Appointments Embed Code -->
 <h2 id="schedule"></h2>
+<p>Questions? Give us a call at <a href="tel:512-660-7746">(512) 660-7746</a></p>
 <script src='https://square.site/appointments/buyer/widget/0x2uzh1q15sbsd/T678KWT4AQ5Y9.js'></script>
 <!-- End Square Appointments EmbedCode -->
 

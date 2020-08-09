@@ -3,6 +3,7 @@ description = "Send us the details for your event. We'll reply with a quote and 
 title = "Contact"
 
 +++
+<p>Questions? Give us a call at <a href="tel:512-660-7746">(512) 660-7746</a></p>
 <form id="subscribe" name="contact" method="POST" netlify-honeypot="bot-field" action="/thanks" netlify>
   <span class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
