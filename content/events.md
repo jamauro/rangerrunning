@@ -3,12 +3,10 @@ description = ""
 title = "Events"
 
 +++
-Monday, May 11th -  Monday Quarantine Yoga Sessions at 12 pm CT
+## Open Sessions
 
-![](/uploads/2020/04/30/Quarantine Yoga Sessions with Zoom.png)Friday, May 15th - Austin Downtown Virtual 5k at 12 pm CT
+![](/uploads/2020/08/09/swift-fit-open-sessions.png)
 
-![](/uploads/2020/05/04/Virtual 5k (6).png)
+## Virtual 5k
 
-Wednesday May 13th - Resilience Roundtable at 1pm CT
-
-![](/uploads/2020/05/11/Resilience Roundtable (1).png)
+![](/uploads/2020/08/09/virtual-5k.png)
