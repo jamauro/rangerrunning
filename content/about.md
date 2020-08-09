@@ -4,7 +4,6 @@ title = "About"
 weight = 2
 
 +++
-
 Swift Fit Events brings fitness and wellness activities into event and conference settings so that attendees can feel restored and revitalized throughout the entirety of the event. Swift Fit offers three different types of activities - ‘running/walking’, ‘group fitness’ and ‘wellness’. These three categories serve any level of fitness and ability while also offering wellness for stress relief, mind sharpening and creating healthy habits. We offer our clients a menu of options which they can choose, customize and have us provide with ease.
 
 Swift Fit founder, Lee Ackerley, worked in banking and grew tired of how every banking conference he attended was essentially the same; sit, eat, drink - rinse and repeat - for nearly every event. Leaving conferences feeling like you could have absorbed more, networked better, or experienced the city you’re in better - leaves a bad taste in anyone’s mouth. In Austin, Lee operated a running tour company part-time for 8 years. He regularly got requests from visiting conferences and corporate events to put on running events but would routinely get asked about group fitness classes, yoga and meditation for attendees. Realizing that he had an opportunity to bring his passion of fitness and wellness into an underserved industry - he created Swift Fit Events to inject healthier options into corporate and conference events - where they seem to be lacking.
@@ -15,7 +14,7 @@ By bringing activities onsite, offering all services under one umbrella and givi
 
 So, what are you waiting for? [Get in touch](/contact).
 
-## Instructors
+## Instructors  
 
 ![](/uploads/2020/08/09/liz.png)
 
@@ -37,7 +36,7 @@ Yoga, Meditation, Reiki
 
 **Favorite Austin Fitness/Wellness activity**
 
-Yoga in the morning followed by trail running along the greenbelt is a perfect Austin day!  If it isn’t too hot :)
+Yoga in the morning followed by trail running along the greenbelt is a perfect Austin day!  If it isn’t too hot :)  
 
 ![](/uploads/2020/08/09/meg.png)
 
@@ -60,7 +59,7 @@ Yoga, Meditation, Wellness Coaching
 
 **Favorite Austin Fitness/Wellness activity**
 
-Eating the best vegan food at Casa De Luz, soaking in Barton springs, and group mediation classes at Shuniya yoga collective
+Eating the best vegan food at Casa De Luz, soaking in Barton springs, and group mediation classes at Shuniya yoga collective  
 
 ![](/uploads/2020/08/09/lee.png)
 
@@ -81,7 +80,7 @@ Running Events
 
 **Favorite Austin Fitness/Wellness activity**
 
-I love to create my own DIY triathlons; Bike on the east side, run downtown and swim at Deep Eddy!
+I love to create my own DIY triathlons; Bike on the east side, run downtown and swim at Deep Eddy!  
 
 ![](/uploads/2020/08/09/alex.png)
 
@@ -104,7 +103,7 @@ Functional Movement, Yoga, Dance/Improvisation, Gyrotonic & Gyrokinesis, Meditat
 
 **Favorite Austin Fitness/Wellness activity**
 
-Swimming in Barton Springs or walking on the trails
+Swimming in Barton Springs or walking on the trails  
 
 ![](/uploads/2020/08/09/jacyln.png)
 
@@ -125,7 +124,7 @@ Vitamin infused IVs, Boosters & Injections (B12, Glutathione, Vitamin D, etc), P
 
 **Favorite Austin Fitness/Wellness activity**
 
-I love a day filled with yoga, swimming, and infrared saunas.
+I love a day filled with yoga, swimming, and infrared saunas.  
 
 ![](/uploads/2020/08/09/banks.png)
 
@@ -142,7 +141,9 @@ Dance Fit, Pilates, Cardio Sculpt
 * Certified Functional Medicine Nutrition Coach through Functional Medicine Coaching Academy (Institue of Functional Medicine collaboration)
 * Business Developement Manager for IVitamin (Hydration Therapy)
 * Volunteer work with Austin Health Commons, an organiztion dedicated to root cause community healing
-* Experience with nutritional healing and passion for proper food sourcing
+* Experience with nutritional healing and passion for proper food sourcing  
+
+    
 
 ### Amerha Ross
 
@@ -157,7 +158,7 @@ Yoga, Bootcamp, Kickboxing, HIIT, Pilates, Functional Movement, Dance Fit, Medit
 * Certified Functional Medicine Nutrition Coach through Functional Medicine Coaching Academy (Institue of Functional Medicine collaboration)
 * Business Developement Manager for IVitamin (Hydration Therapy)
 * Volunteer work with Austin Health Commons, an organiztion dedicated to root cause community healing
-* Experience with nutritional healing and passion for proper food sourcing
+* Experience with nutritional healing and passion for proper food sourcing  
 
 ### Jennie Bender
 
@@ -176,7 +177,7 @@ Boxing, Kickboxing, Bootcamp, HIIT, Spin (metric & rhythm)
 
 **Favorite Austin Fitness/Wellness activity**
 
-Hiking and swimming at St. Edward's Park
+Hiking and swimming at St. Edward's Park  
 
 ![](/uploads/2020/08/09/cait.png)
 
@@ -198,7 +199,7 @@ Wellness Seminars/Coaching — emphasis on resilience, mindfulness & stress mana
 
 **Favorite Austin Fitness/Wellness activity**
 
-Yoga classes at Sukha studio, followed by a delicious and healthy meal at True Food Kitchen or Picnik + the annual Austin Sunshine Challenge
+Yoga classes at Sukha studio, followed by a delicious and healthy meal at True Food Kitchen or Picnik + the annual Austin Sunshine Challenge  
 
 ### Mark Boazarth-Dreher
 
