@@ -388,6 +388,11 @@ time.date:before {
   padding: 0;
 }
 
+#post-box iframe {
+  min-height: 700px !important;
+  border: 2px solid #FFF1DF !important;
+}
+
 #services .item {
   padding: 0 40px;
 }

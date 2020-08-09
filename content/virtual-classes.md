@@ -64,6 +64,12 @@ A Reiki 1:1 session can help ease tension and stress and is often utilized for o
 
 <br>
 
+<!-- Start Square Appointments Embed Code -->
+<h2 id="schedule"></h2>
+<script src='https://square.site/appointments/buyer/widget/0x2uzh1q15sbsd/T678KWT4AQ5Y9.js'></script>
+<!-- End Square Appointments EmbedCode -->
+
+<!--
 <h2 id="schedule">Schedule Today!</h2>
 <form id="schedule-form" name="schedule virtual class" method="POST" netlify-honeypot="bot-field" action="/thanks" netlify>
   <span class="hidden">
@@ -83,4 +89,4 @@ A Reiki 1:1 session can help ease tension and stress and is often utilized for o
   <input type="text" name="date" placeholder="Preferred date and time">
   <textarea name="message" placeholder="Any notes you want to add (optional)"></textarea>
   <button type="submit">Send</button>
-</form>
+</form> -->
