@@ -14,6 +14,8 @@ By bringing activities onsite, offering all services under one umbrella and givi
 
 So, what are you waiting for? [Get in touch](/contact).
 
+<br>
+
 ## Instructors  
 
 <br>
