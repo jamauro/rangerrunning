@@ -193,3 +193,86 @@ Biking
 - Volunteer work with Austin Health Commons, an organiztion dedicated to root cause community healing
 - Experience with nutritional healing and passion for proper food sourcing
 
+
+### JJ Pepper
+Hometown: Blanco, TX
+
+**Classes**
+
+Yoga, HIIT, Kettlebell, Kinstretch
+
+**Experience**
+
+- Bachelors Degree In Kinesiology, University of Texas
+- 200hr Certified Yoga Instructor
+- FRC Mobility Specialist
+- Certified Kinstretch Instructor
+- Certified Pilates Instructor
+- 7+ years experience in athletic training and health and wellness
+
+**Favorite Austin Fitness/Wellness activity**
+
+- Yoga classes at the many amazing studios in Austin
+- Shooting hoops at any basketball court I can find
+- Climbing at Crux Climbing Center
+- Visiting Enchanted Rock
+
+
+### Avalon Ray
+Hometown: Austin, TX
+
+**Classes**
+
+Bootcamp, HIIT, Functional Movement, Massage
+
+**Experience**
+
+- ACE Certified Personal Trainer
+- Gray Institute: Certification in Applied Functional Science
+- Functional Range Conditioning Mobility Specialist
+- Licensed Massage Therapist
+
+**Favorite Austin Fitness/Wellness activity**
+
+Taking my dog for a run on the greenbelt (if it’s not 100 degrees) or paddling around Lake Austin.
+
+
+### Kelsie Pennington
+Hometown: Corpus Christi, TX
+
+**Classes**
+
+Barre, Pilates
+
+**Experience**
+
+- Certified Barre Instructor
+- Pilates Instructor
+- 15 Years Of Ballet
+
+**Favorite Austin Fitness/Wellness activity**
+
+Paddle boarding on Lady Bird Lake and having brunch on a beautiful patio in Austin
+
+
+### Amy Edwards
+Hometown: Harker Heights, Texas
+
+**Classes**
+
+Reiki, Meditation
+
+**Experience**
+
+- Certified Reiki Master
+- Transformation and Life Coach 5+ years
+- Conscious Broadcaster and Podcast Host 6+ years
+- Radio Personality + Host at Austin360 Radio
+- Contributing Lifestyle + Wellness Columnist for Society Texas Magazine
+
+**Favorite Austin Fitness/Wellness activity**
+
+Running the steps at Covert Park for a workout at the top of gorgeous Mt. Bonnell; Sunday morning yoga at Black Swan; paddleboarding on Lady Bird Lake; and finding ways to eat vegan at any of our amazing restaurants in Austin!
+
+
+
