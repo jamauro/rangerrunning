@@ -16,7 +16,7 @@ So, what are you waiting for? [Get in touch](/contact).
 
 <br>
 
-## Instructors  
+## Instructors
 
 <br>
 
@@ -40,7 +40,7 @@ Yoga, Meditation, Reiki
 
 **Favorite Austin Fitness/Wellness activity**
 
-Yoga in the morning followed by trail running along the greenbelt is a perfect Austin day!  If it isn’t too hot :)  
+Yoga in the morning followed by trail running along the greenbelt is a perfect Austin day!  If it isn’t too hot :)
 
 <br>
 
@@ -69,7 +69,7 @@ Yoga, Meditation, Wellness Coaching
 
 **Favorite Austin Fitness/Wellness activity**
 
-Eating the best vegan food at Casa De Luz, soaking in Barton springs, and group mediation classes at Shuniya yoga collective  
+Eating the best vegan food at Casa De Luz, soaking in Barton springs, and group mediation classes at Shuniya yoga collective
 
 <br>
 
@@ -77,7 +77,7 @@ Eating the best vegan food at Casa De Luz, soaking in Barton springs, and group 
 
 <br>
 
-  
+
 ![](/uploads/2020/08/09/lee.png)
 
 ### Lee Ackerley
@@ -97,7 +97,7 @@ Running Events
 
 **Favorite Austin Fitness/Wellness activity**
 
-I love to create my own DIY triathlons; Bike on the east side, run downtown and swim at Deep Eddy!  
+I love to create my own DIY triathlons; Bike on the east side, run downtown and swim at Deep Eddy!
 
 <br>
 
@@ -105,7 +105,7 @@ I love to create my own DIY triathlons; Bike on the east side, run downtown and 
 
 <br>
 
-  
+
 ![](/uploads/2020/08/09/alex.png)
 
 ### Alex Masi
@@ -127,7 +127,7 @@ Functional Movement, Yoga, Dance/Improvisation, Gyrotonic & Gyrokinesis, Meditat
 
 **Favorite Austin Fitness/Wellness activity**
 
-Swimming in Barton Springs or walking on the trails  
+Swimming in Barton Springs or walking on the trails
 
 <br>
 
@@ -154,13 +154,13 @@ Vitamin infused IVs, Boosters & Injections (B12, Glutathione, Vitamin D, etc), P
 
 **Favorite Austin Fitness/Wellness activity**
 
-I love a day filled with yoga, swimming, and infrared saunas.  
+I love a day filled with yoga, swimming, and infrared saunas.
 
 <br>
 
 ***
 
-<br>  
+<br>
 ![](/uploads/2020/08/09/banks.png)
 
 ### Banks Cooney
@@ -197,7 +197,7 @@ Yoga, Bootcamp, Kickboxing, HIIT, Pilates, Functional Movement, Dance Fit, Medit
 * Certified Functional Medicine Nutrition Coach through Functional Medicine Coaching Academy (Institue of Functional Medicine collaboration)
 * Business Developement Manager for IVitamin (Hydration Therapy)
 * Volunteer work with Austin Health Commons, an organiztion dedicated to root cause community healing
-* Experience with nutritional healing and passion for proper food sourcing  
+* Experience with nutritional healing and passion for proper food sourcing
 
 <br>
 
@@ -222,7 +222,7 @@ Boxing, Kickboxing, Bootcamp, HIIT, Spin (metric & rhythm)
 
 **Favorite Austin Fitness/Wellness activity**
 
-Hiking and swimming at St. Edward's Park  
+Hiking and swimming at St. Edward's Park
 
 <br>
 
@@ -250,7 +250,7 @@ Wellness Seminars/Coaching — emphasis on resilience, mindfulness & stress mana
 
 **Favorite Austin Fitness/Wellness activity**
 
-Yoga classes at Sukha studio, followed by a delicious and healthy meal at True Food Kitchen or Picnik + the annual Austin Sunshine Challenge  
+Yoga classes at Sukha studio, followed by a delicious and healthy meal at True Food Kitchen or Picnik + the annual Austin Sunshine Challenge
 
 <br>
 
@@ -268,12 +268,16 @@ Biking
 
 **Experience**
 
-<<<<<<< HEAD
 - Certified Functional Medicine Nutrition Coach through Functional Medicine Coaching Academy (Institue of Functional Medicine collaboration)
 - Business Developement Manager for IVitamin (Hydration Therapy)
 - Volunteer work with Austin Health Commons, an organiztion dedicated to root cause community healing
 - Experience with nutritional healing and passion for proper food sourcing
 
+<br>
+
+***
+
+<br>
 
 ### JJ Pepper
 Hometown: Blanco, TX
@@ -298,6 +302,11 @@ Yoga, HIIT, Kettlebell, Kinstretch
 - Climbing at Crux Climbing Center
 - Visiting Enchanted Rock
 
+<br>
+
+***
+
+<br>
 
 ### Avalon Ray
 Hometown: Austin, TX
@@ -317,6 +326,11 @@ Bootcamp, HIIT, Functional Movement, Massage
 
 Taking my dog for a run on the greenbelt (if it’s not 100 degrees) or paddling around Lake Austin.
 
+<br>
+
+***
+
+<br>
 
 ### Kelsie Pennington
 Hometown: Corpus Christi, TX
@@ -335,6 +349,11 @@ Barre, Pilates
 
 Paddle boarding on Lady Bird Lake and having brunch on a beautiful patio in Austin
 
+<br>
+
+***
+
+<br>
 
 ### Amy Edwards
 Hometown: Harker Heights, Texas
@@ -354,12 +373,3 @@ Reiki, Meditation
 **Favorite Austin Fitness/Wellness activity**
 
 Running the steps at Covert Park for a workout at the top of gorgeous Mt. Bonnell; Sunday morning yoga at Black Swan; paddleboarding on Lady Bird Lake; and finding ways to eat vegan at any of our amazing restaurants in Austin!
-
-
-
-=======
-* Certified Functional Medicine Nutrition Coach through Functional Medicine Coaching Academy (Institue of Functional Medicine collaboration)
-* Business Developement Manager for IVitamin (Hydration Therapy)
-* Volunteer work with Austin Health Commons, an organiztion dedicated to root cause community healing
-* Experience with nutritional healing and passion for proper food sourcing
->>>>>>> 22c38b0e4ba10733f4c5173a431cd2736e27ae67
