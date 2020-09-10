@@ -8,6 +8,10 @@ title = "Virtual Classes"
   <h3>Schedule today! Group discounts available. <a href="#schedule" class="button">Schedule</a></h3>
 </section>
 
+<a download="Swift Fit Events Virtual Classes" href="/img/Swift_Fit_Events_Virtual_Classes.png" title="Swift Fit Events Activities">
+  <img alt="Swift Fit Events Virtual Classes" src="/img/Swift_Fit_Events_Virtual_Classes.png" height="100%" width="100%">
+</a>
+
 ## Yoga
 Learn the proper alignment and the health benefits of each yoga pose as we move through our virtual slow-flow practice. Classes are casual, fun and can be adjusted to fit and support all fitness levels.
 
