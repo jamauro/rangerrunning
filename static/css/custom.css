@@ -669,12 +669,12 @@ footer {
     margin-top: 12px;
   }
 
-  .trainer {
+  #instructors .trainer {
     flex-direction: column-reverse;
     padding: 1.5rem;
   }
 
-  .avatar {
+  #instructors .avatar {
     position: relative;
     right: unset;
   }
