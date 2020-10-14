@@ -19,6 +19,10 @@ weight = 1
   url = "/events/"
   weight = 2
 [[menu.main]]
+  name = "On Demand"
+  url = "/ondemand/"
+  weight = 3
+[[menu.main]]
   name = "About"
   url = "/about/"
   weight = 4
