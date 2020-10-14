@@ -10,6 +10,10 @@ Fitness and wellness routines have been upended by the pandemic. While there is 
 
 The Swift Fit video on-demand catalogue allows members to sample a variety of classes to see which workout or breathing practice best fits their current needs. Whether its meditation, kickboxing, cardio bootcamps, or Pink Floyd-themed yoga - Swift Fit aims to break out of the traditional boring virtual workout by offering authentic instructors leading invigorating classes!
 
-<a href='#/ms/login'>login</a>
-<a href='#/ms/signup/5f596e175bee1500047f80f5'>signup</a>
+<div class="centered">
+  <p><a class="button big" href='#/ms/signup/5f596e175bee1500047f80f5'>signup today!</a></p>
+  <p>already have an account? <a href='#/ms/login'>login</a></p>
+</div>
+
+
 
