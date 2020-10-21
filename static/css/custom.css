@@ -520,7 +520,7 @@ textarea {
 .baskets {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  column-gap: 20px;
+  column-gap: 40px;
   row-gap: 40px;
   padding-top: 40px;
 }
