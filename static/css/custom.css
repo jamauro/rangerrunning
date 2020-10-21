@@ -117,6 +117,7 @@ blockquote {
   justify-content: flex-end;
   list-style-type: none;
   padding-left: 0;
+  line-height: 1;
 }
 
 #top #top-nav-main {
@@ -515,6 +516,22 @@ textarea {
 #instructors .uppercase {
   text-transform: uppercase;
   font-weight: 600;
+}
+
+.baskets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  column-gap: 20px;
+  row-gap: 40px;
+  padding-top: 40px;
+}
+
+.baskets img {
+  border-radius: 4px;
+}
+
+.baskets .button {
+  text-align: center;
 }
 
 footer {
