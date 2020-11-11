@@ -21,7 +21,7 @@ Discounts available for large orders.
   <div>
     <h4>Relax and Rejuvenate – $85 <span class='small'><em>(Retail $115)</em></span></h4>
     <p>Pamper your mind, body and soul<br><span class="items">Cuticle Butter Tin, Perfume Oil Roller, Lotion Bar Stick, Travel Candle, Bath Salts, Towelettes, Yoga Mat Spray, Arnica Balm</span></p>
-    <a href="https://checkout.square.site/buy/57QJU2UH5NF3CA6PMSDTT4RY" target="_blank">
+    <a href="https://checkout.square.site/buy/GR72OJBIJ3BT4K7O77EZ7XUG" target="_blank">
       <img alt="Swift Fit Relax and Rejuvenate Gift Basket" src="/img/Swift_Fit_Relax_Rejuvenate.jpg" height="100%" width="100%">
       <span class="button">buy</span>
     </a>
@@ -29,7 +29,7 @@ Discounts available for large orders.
   <div>
     <h4>Calm and Serenity – $99 <span class='small'><em>(Retail $135)</em></span></h4>
     <p>Destress & decompress your life<br><span class="items">(12) Incense cones with dish, Sage Bundle, Room Spray, Candle, Soap Sampler, Chapstick</span></p>
-    <a href="https://checkout.square.site/buy/GR72OJBIJ3BT4K7O77EZ7XUG" target="_blank">
+    <a href="https://checkout.square.site/buy/57QJU2UH5NF3CA6PMSDTT4RY" target="_blank">
       <img alt="Swift Fit Calm and Serenity Gift Basket" src="/img/Swift_Fit_Calm_Serenity.jpg" height="100%" width="100%">
       <span class="button">buy</span>
     </a>
