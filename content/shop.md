@@ -45,6 +45,10 @@ Discounts available for large orders.
 </div>
 <br>
 <br>
+<img alt="Swift Fit Wellness Basket" src="/img/Swift_Fit_Wellness_Basket_1.jpg" height="100%" width="100%">
+<img alt="Swift Fit Wellness Basket" src="/img/Swift_Fit_Wellness_Basket_2.jpg" height="100%" width="100%">
+<br>
+<br>
 <div class="small">
   <ul>
     <li>5% Discount when purchasing 20 boxes or more</li>
