@@ -57,7 +57,7 @@ Discounts available for large orders.
     <li>Complimentary white-labeling when purchasing of 50 boxes or more</li>
   </ul>
   <p>
-    *White labeling allows client’s to add their logo to the boxes as well as the ability to personalize gift cards.
+    *White labeling allows client’s to add their logo to the boxes as well as the ability to personalize gift cards. Please contact <a href="mailto:info@swiftfitevents.com">info@swiftfitevents.com</a> for basket customization and white-labeling.
     <br>
     *International shipping, personalized messaging and gift-wrapping are available upon request.
   </p>
