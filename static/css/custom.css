@@ -411,7 +411,6 @@ time.date:before {
 }
 
 #post-box iframe {
-  min-height: 700px !important;
   border: 2px solid #FFF1DF !important;
 }
 
