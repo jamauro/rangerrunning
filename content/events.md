@@ -3,6 +3,21 @@ description = ""
 title = "Events"
 
 +++
+## Special Sessions
+
+#### Sunday, Dec 18th
+Join us at Native Hostel for a morning slow flow yoga class, followed by a complimentary booster and recovery drink from MSW Nutrition.
+
+Swift Fit Events and MSW Nutrition bring you a restorative morning of exercise and recovery at Native Hostel in a safe, socially-distanced setting.
+
+* 9-10 AM Slow Flow Vinyasa on the South patio with Swift Fit Events (Mats are provided)
+* 10-12 PM Recover with a complimentary drink from the MSW Vitamin Bar & A Booster shot from MSW
+* 12 PM Hang out for Plant Forward Friday which will run all day
+
+[Buy Ticket](https://www.eventbrite.com/e/morning-yoga-recovery-at-native-hostel-tickets-132179932737)
+
+<a href="https://www.eventbrite.com/e/morning-yoga-recovery-at-native-hostel-tickets-132179932737"><img alt="Swift Fit Native Hostel" src="/img/swift_fit_native_hostel.jpeg" height="100%" width="100%"></a>
+
 ## Poolside Yoga
 
 #### Saturday Mornings

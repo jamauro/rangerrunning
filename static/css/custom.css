@@ -192,11 +192,11 @@ blockquote {
 
 #hero.logo {
   /* background: url(/img/texas.svg) no-repeat; */
-  background-size: contain;
-  height: 332px;
-  margin-top: 100px;
-  margin-bottom: 160px;
-  background-position: 48% 50%;
+  /* background-size: contain;
+  height: 332px; */
+  margin-top: 200px;
+  margin-bottom: 200px;
+  /* background-position: 48% 50%; */
 }
 
 #hero img {
