@@ -5,18 +5,42 @@ title = "Events"
 +++
 ## Special Sessions
 
-#### Sunday, Dec 18th
-Join us at Native Hostel for a morning slow flow yoga class, followed by a complimentary booster and recovery drink from MSW Nutrition.
+### Friday, Jan 1 - Sunday, Jan 3 – Proper Reset Weekend
+Make it a Proper New Year with our Reset Weekend - A special wellness and retreat package at Austin Proper Hotel and Residences. Sink into a couple of days of relaxation and rejuvenation with this unique retreat experience that will immerse you in restorative practices, energizing movement, and deep connections. Surround yourself in the uplifting company of 14 like-minded individuals for a weekend of inspiration, healing, and relaxation led by Austin’s top-tier instructors.
 
-Swift Fit Events and MSW Nutrition bring you a restorative morning of exercise and recovery at Native Hostel in a safe, socially-distanced setting.
+Weekend activities include: Meditation, Pranayama / Breathwork, Yoga, Sound healing, Kundalini, Visualization and Goal Setting, Hikes, Runs & Bike Rides, Intentional journaling + reflecting and a few surprises along the way. Dining will include preferred seating and specially prepared meals from the award-winning Peacock and La Piscina.
+The package allows you exclusive access to the weekend's curated health and wellness activations, a 2-night stay at Austin Proper Hotel, $200 dining credit, Swift Fit Events wellness box, a tote bag filled with a journal + amenities, as well as recap correspondence with photography.
 
-* 9-10 AM Slow Flow Vinyasa on the South patio with Swift Fit Events (Mats are provided)
-* 10-12 PM Recover with a complimentary drink from the MSW Vitamin Bar & A Booster shot from MSW
-* 12 PM Hang out for Plant Forward Friday which will run all day
+Please note that the weekend's classes will be held outdoors, socially distanced by single or coupled reservations. In the event of inclement weather, the on-site activations will be moved to a well-ventilated indoor space with outside access.
 
-[Buy Ticket](https://www.eventbrite.com/e/morning-yoga-recovery-at-native-hostel-tickets-132179932737)
+[Buy Ticket](https://www.eventbrite.com/e/proper-reset-weekend-a-downtown-wellness-retreat-tickets-132338649463)
 
-<a href="https://www.eventbrite.com/e/morning-yoga-recovery-at-native-hostel-tickets-132179932737"><img alt="Swift Fit Native Hostel" src="/img/swift_fit_native_hostel.jpeg" height="100%" width="100%"></a>
+<a href="https://www.eventbrite.com/e/proper-reset-weekend-a-downtown-wellness-retreat-tickets-132338649463"><img alt="Swift Fit Events Austin Proper Hotel" src="/img/Swift_Fit_Austin_Proper.jpeg" height="100%" width="100%"></a>
+
+
+### Friday, Jan 8 - Nourish + Ground: Yoga at Boggy Creek
+Enjoy a peaceful morning yoga session at East Austin's Boggy Creek Farm. Vinyasa, singing bowls, and the outdoors will calm and ground you!
+
+Join us for a movement practice rooted in feeling our way into our bodies and nurturing strength and space through twisting, side bending and standing strong. Follow up with fresh air and exploration of the beautiful Boggy Creek farm and nourish your soul with fresh, organic veggies.
+
+10:30 - 11:30 AM Vinyasa practice led by Camila Matos. Meg Sylvester will accompany with singing bowls.
+
+11:30 - 1 PM Enjoy complimentary refreshments while exploring the beautiful property and browsing the farm's delicious produce.
+
+[Buy Ticket](https://www.eventbrite.com/e/nourish-ground-yoga-at-boggy-creek-tickets-132180065133)
+
+<a href="https://www.eventbrite.com/e/nourish-ground-yoga-at-boggy-creek-tickets-132180065133"><img alt="Swift Fit Events Austin Proper Hotel" src="/img/Swift_Fit_Boggy_Creek.jpeg" height="100%" width="100%"></a>
+
+
+### Saturday, Jan 30 - Saturday Morning Flow at Wild Heart Yoga
+Saturday morning yoga in Wild Heart Yoga's Bee Caves backyard with Swift Fit Events.
+
+Join us in Wild Heart Yoga's backyard for an open-air Saturday morning session.
+
+[Buy Ticket](https://www.eventbrite.com/e/saturday-morning-flow-at-wild-heart-yoga-tickets-132181437237)
+
+<a href="https://www.eventbrite.com/e/saturday-morning-flow-at-wild-heart-yoga-tickets-132181437237"><img alt="Swift Fit Events Austin Proper Hotel" src="/img/Swift_Fit_Wild_Heart.jpeg" height="100%" width="100%"></a>
+
 
 ## Poolside Yoga
 
@@ -29,16 +53,6 @@ Each ticket includes access to the Austin Proper pool deck & gym and an hour cla
 [Buy Ticket](https://www.eventbrite.com/e/saturday-rise-poolside-yoga-series-tickets-123427441801)
 
 <img alt="Swift Fit Yoga Saturday" src="/img/Swift_Fit_Yoga_Saturday.jpeg" height="100%" width="100%">
-
-#### Wednesday Afternoons
-
-Join us for 60 minutes of mindful movement and meditation to revitalize the body and uplift the spirit. Enjoy a variety of different styles including; kundalini, yin, breathwork and more to help you find your groove. Classes will end with a relaxing meditation and sound bath that will leave you on cloud 9. This class is great for all levels, including those new to yoga.
-
-Each ticket includes afternoon access to the Austin Proper pool deck & gym starting at 3:30pm, an hour class on the 5th floor rooftop, followed by 10% off cocktails in the Lobby Bar. Yoga mats, towels, and Richard's Rainwater will be provided.
-
-[Buy Ticket](https://www.eventbrite.com/e/wednesday-set-poolside-yoga-series-tickets-124733909481)
-
-<img alt="Swift Fit Yoga Wednesday" src="/img/Swift_Fit_Yoga_Wednesday.jpeg" height="100%" width="100%">
 
 ## Open Sessions
 
