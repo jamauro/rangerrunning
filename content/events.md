@@ -5,7 +5,7 @@ title = "Events"
 +++
 ## Special Sessions
 
-### Mar 12-14 – Proper Reset Weekend - A Downtown Wellness Retreat
+### Apr 16-18 – Proper Reset Weekend - A Downtown Wellness Retreat
 Make it a Proper New Year with our Reset Weekend - A special wellness and retreat package at Austin Proper Hotel and Residences. Sink into a couple of days of relaxation and rejuvenation with this unique retreat experience that will immerse you in restorative practices, energizing movement, and deep connections. Surround yourself in the uplifting company of 14 like-minded individuals for a weekend of inspiration, healing, and relaxation led by Austin’s top-tier instructors.
 
 Weekend activities include: Meditation, Pranayama / Breathwork, Yoga, Sound healing, Kundalini, Visualization and Goal Setting, Hikes, Runs & Bike Rides, Intentional journaling + reflecting and a few surprises along the way. Dining will include preferred seating and specially prepared meals from the award-winning Peacock and La Piscina.
